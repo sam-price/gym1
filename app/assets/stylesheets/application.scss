@@ -14,6 +14,7 @@
  *= require_self
  */
 
+<<<<<<< HEAD:app/assets/stylesheets/application.scss
 @import "bootstrap-sprockets";
 @import "bootstrap";
 @import "bootstrap-social";
@@ -22,3 +23,18 @@
 @import "font-awesome-sprockets";
 @import "font-awesome";
 @import "styles";
+=======
+
+@import "variables";
+@import "styles";
+@import "tools";
+@import "bootstrap";
+@import "bootstrap-sprockets";
+@import "bootstrap-social";
+@import "jasny-bootstrap";
+@import "supersized";
+@import "font-awesome";
+@import "font-awesome-sprockets"
+
+
+>>>>>>> b4e7ebf4f5653efd0e9c7210b9bc20114bb6a598:app/assets/stylesheets/application.scss
